@@ -1,9 +1,9 @@
 # SET YOUR API FROM FACEBOOK ADS API 
 
-![Facebook Developer Tools](https://developers.facebook.com/tools/explorer)
+[Facebook Developer Tools](https://developers.facebook.com/tools/explorer)
 
 ``` 
-	Apikey= set your api key 
+Apikey= set your api key 
 ```
 
 <hr style="border:2px solid gray">
